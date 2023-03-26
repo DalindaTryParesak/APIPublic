@@ -65,9 +65,10 @@
     <div class="card">
       <img src="film8.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional 
-          content. This content is a little bit longer.</p>
+        <h5 class="card-title">Habibie Ainun</h5>
+        <p class="card-text">Film Habibie Ainun diproduksi oleh MD Pictures, salah satu PH terbesar di Indonesia dan terdiri dari tiga sekuel, 
+          yaitu Habibie & Ainun, Rudy Habibie, Ainun & Habibie 3. Tema film Habibie dan Ainun adalah drama biopik. Cerita singkat 
+          Habibie dan Ainun yaitu tentang hidup B. J. Habibie, Presiden RI ke-3 dan istrinya, Hasri Ainun Bersari.</p>
       </div>
     </div>
   </div>
@@ -75,9 +76,10 @@
     <div class="card">
       <img src="film6.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional 
-          content. This content is a little bit longer.</p>
+        <h5 class="card-title">Keluarga Cemara</h5>
+        <p class="card-text">Keluarga Cemara mengisahkan kehidupan sehari-hari Cemara/Ara bersama Abah, Ema, dan kakaknya, Euis, dan adiknya, Agil. 
+          Tadinya mereka mapan di Jakarta, tapi Abah harus menjual rumah dan harta 
+          bendanya karena orang yang ia percaya melakukan tindakan ilegal, sehingga Abah harus bertanggung jawab.</p>
       </div>
     </div>
   </div>
@@ -85,9 +87,9 @@
     <div class="card">
       <img src="film5.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-           content.</p>
+        <h5 class="card-title">Dear Nathan</h5>
+        <p class="card-text">Menceritakan tentang nathan dan salma yang saling bertemu, 
+          kedekatan mereka mulai mendapatkan ujian pada saat kehadiran orang yang kembali ada di kehidupan mereka</p>
       </div>
     </div>
   </div>
@@ -95,9 +97,9 @@
     <div class="card">
       <img src="film4.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to 
-          additional content.</p>
+        <h5 class="card-title">Raja, Ratu dan Rahasia</h5>
+        <p class="card-text">Dirilis pada 2018 lalu, film yang digarap oleh Starvision ini mengisahkan tentang pertemanan antara Raja dan Ratu yang diam-diam keduanya menyimpan rahasia yang nantinya terbongkar satu sama lain. Selain diperankan oleh aktor-aktor baru,
+           film ini juga menyajikan cerita yang ringan sehingga penonton mudah untuk mengikuti alur ceritanya.</p>
       </div>
     </div>
   </div>
@@ -105,9 +107,10 @@
     <div class="card">
       <img src="film3.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional 
-          content.</p>
+        <h5 class="card-title">Laskar Pelangi</h5>
+        <p class="card-text">Laskar Pelangi menceritakan kisah anak-anak dari Desa Belitung yang dikategorikan sebagai anak-anak miskin di Belitung. 
+          Anak-anak tersebut tidak berhenti berusaha untuk memperbaiki masa depan mereka.
+            Mereka merupakan siswa SD Muhammadiyah, SD tertua di desa Belitung.</p>
       </div>
     </div>
   </div>
@@ -115,9 +118,9 @@
     <div class="card">
       <img src="film2.jpeg" class="card-img-top" height="400px">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to 
-          additional content.</p>
+        <h5 class="card-title">Miracle in Cell No 7</h5>
+        <p class="card-text">Miracle in Cell No 7 memperlihatkan bagaimana kasih sayang seorang ayah kepada putrinya yang tidak terbatas. 
+          Meskipun memiliki keterbatasan mental, seorang ayah tetap ingin memberikan yang terbaik untuk putrinya.</p>
       </div>
     </div>
   </div>
